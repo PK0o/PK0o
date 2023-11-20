@@ -1,4 +1,4 @@
-Hi 👋 My name is Philip Korn
+Hi 👋 
 ============================
 
 Aspiring web developer on a learning journy.
